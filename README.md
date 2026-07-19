@@ -54,3 +54,9 @@ Segmentarea clienților: distribuția pe segmente RFM (Champions, Loyal, At Risk
 ![Predicție churn](screenshots/04_predictie_churn.png)
 
 Rezultatele modelului Random Forest: metrici de evaluare (Recall 77,2%, Precizie 68,9%, Acuratețe 72,3%, F1 72,8%), importanța variabilelor și distribuția clienților pe nivel de risc.
+
+### 5. Decizie
+
+![Decizie](screenshots/05_decizie_recomandari.png)
+
+Simulare de retenție: ajustezi rata de retenție țintă și vezi impactul asupra venitului salvat vs. venitului la risc, defalcat pe segmente RFM.
