@@ -1,0 +1,10 @@
+Metrica,Valoare
+Accuracy,0.7234
+Precision,0.6889
+Recall,0.7717
+F1,0.728
+TN,1746.0
+FP,826.0
+FN,541.0
+TP,1829.0
+Rata_churn_reala,0.4796
