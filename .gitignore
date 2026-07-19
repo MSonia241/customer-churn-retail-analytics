@@ -1,6 +1,4 @@
-_cache_all.csv
-tranzactii.csv
+*.csv
 tranzactii.xlsx
 online+retail+ii/
 Ghid_interviu_churn.docx
-clienti.xlsx

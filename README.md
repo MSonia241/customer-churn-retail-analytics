@@ -26,8 +26,8 @@ Dataset **Online Retail II**, donat de Dr. Daqing Chen (London South Bank Univer
 
 - `comporatmentClienti.pbix` — dashboard-ul complet, gata de deschis în Power BI Desktop
 - `pipeline_clienti.py` — pipeline-ul Python complet (curățare → RFM → clustering → model churn → export)
-- `clienti.csv` — profilul RFM + scorul de churn per client, folosit de dashboard
-- `churn_metrics.csv`, `feature_importance.csv` — metricile modelului și importanța variabilelor
+- `clienti.xlsx` — profilul RFM + scorul de churn per client, folosit de dashboard
+- `churn_metrics.xlsx`, `feature_importance.xlsx` — metricile modelului și importanța variabilelor
 
 ## Paginile raportului
 
