@@ -36,3 +36,9 @@ Dataset **Online Retail II**, donat de Dr. Daqing Chen (London South Bank Univer
 ![Prezentare](screenshots/01_prezentare.png)
 
 Pagina de start: KPI generali (5K clienți, 17,44M £ venit total, 37K facturi, 47,96% rată churn, valoare medie comandă), evoluția lunară a veniturilor, distribuția geografică a veniturilor (hartă) și top 10 produse după venit.
+
+### 2. Produse & Geografie
+
+![Produse & Geografie](screenshots/02_analiza_vanzarilor.png)
+
+Analiză detaliată pe țări (hartă + tabel cu venit, număr clienți, rată churn per țară) și un grafic Pareto al produselor după venitul cumulat.
