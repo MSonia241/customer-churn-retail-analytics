@@ -60,3 +60,9 @@ Rezultatele modelului Random Forest: metrici de evaluare (Recall 77,2%, Precizie
 ![Decizie](screenshots/05_decizie_recomandari.png)
 
 Simulare de retenție: ajustezi rata de retenție țintă și vezi impactul asupra venitului salvat vs. venitului la risc, defalcat pe segmente RFM.
+
+### 6. Detaliu client
+
+![Detaliu client](screenshots/06_detaliu_client.png)
+
+Vizualizare la nivel de client individual: scorurile R/F/M, probabilitatea de churn și statusul de risc, cu istoricul de Recency/Frequency/Monetary.
