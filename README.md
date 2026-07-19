@@ -48,3 +48,9 @@ Analiză detaliată pe țări (hartă + tabel cu venit, număr clienți, rată c
 ![Segmentare](screenshots/03_segmentare.png)
 
 Segmentarea clienților: distribuția pe segmente RFM (Champions, Loyal, At Risk etc.), scatter plot Frequency vs. Monetary colorat pe clustere K-Means (VIP, High-Value, Mid-Value, Occasional) și venitul pe segment.
+
+### 4. Predicție churn
+
+![Predicție churn](screenshots/04_predictie_churn.png)
+
+Rezultatele modelului Random Forest: metrici de evaluare (Recall 77,2%, Precizie 68,9%, Acuratețe 72,3%, F1 72,8%), importanța variabilelor și distribuția clienților pe nivel de risc.
