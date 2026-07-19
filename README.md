@@ -42,3 +42,9 @@ Pagina de start: KPI generali (5K clienți, 17,44M £ venit total, 37K facturi, 
 ![Produse & Geografie](screenshots/02_analiza_vanzarilor.png)
 
 Analiză detaliată pe țări (hartă + tabel cu venit, număr clienți, rată churn per țară) și un grafic Pareto al produselor după venitul cumulat.
+
+### 3. Segmentare
+
+![Segmentare](screenshots/03_segmentare.png)
+
+Segmentarea clienților: distribuția pe segmente RFM (Champions, Loyal, At Risk etc.), scatter plot Frequency vs. Monetary colorat pe clustere K-Means (VIP, High-Value, Mid-Value, Occasional) și venitul pe segment.
